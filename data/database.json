@@ -253,6 +253,17 @@
       "isDeleted": false,
       "createdAt": "2024-01-26T14:01:01.815Z",
       "modifiedAt": "2024-03-07T08:44:31.174Z"
+    },
+    {
+      "id": "g4rtA15tF",
+      "uuid": "96abd1cd-8011-4ace-b4b2-8744c6de56ff",
+      "userId": "uBmeaz5pX",
+      "bankName": "Bancolombia",
+      "accountNumber": "321321321",
+      "routingNumber": "321321321",
+      "isDeleted": false,
+      "createdAt": "2026-08-20T07:15:00.914Z",
+      "modifiedAt": "2026-08-20T07:15:00.914Z"
     }
   ],
   "transactions": [
@@ -10986,4 +10997,3 @@
     }
   ]
 }
-
